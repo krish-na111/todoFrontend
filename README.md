@@ -10,7 +10,7 @@ The frontend provides:
 - A responsive user interface for authentication and task management
 - Forms for user signup and login
 - A dashboard for creating, updating, deleting, and filtering tasks
-- Integration with a deployed backend API using Axios
+- Integration with API backend
 - Dynamic UI updates and conditional rendering
 
 ---
@@ -19,16 +19,14 @@ The frontend provides:
 
 - React.js
 - React Router
-- Axios
 - Tailwind CSS / CSS (if used)
 - JWT for authentication handling
 - LocalStorage for token management
 
 ---
 
-## Setup instructions
+##Setup instructions
 ### 1. clone the repository
-```bash
 git clone https://github.com/yourusername/todoapp-frontend.git
 cd todoapp-frontend
 ### 2. install dependencies
