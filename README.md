@@ -32,6 +32,6 @@ cd todoapp-frontend
 ### 2. install dependencies
 npm install
 ### 3. configure backend with URL
-REACT_APP_API_BASE_URL = 
+REACT_APP_API_BASE_URL = url_name
 ### 4. Run the REACT App
 npm start
